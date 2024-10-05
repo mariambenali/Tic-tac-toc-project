@@ -1,0 +1,7 @@
+# stat the application
+# menu of the application
+# choose > start the game or live it
+# enter > the name of two players with a symbol X or O 
+# the boar is displayed 
+# Loop until winn or draw
+# Choose play again or live the game
